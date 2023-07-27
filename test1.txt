@@ -1,1 +1,2 @@
-This is first test file.
+I born in 1996.
+I have pass my ssc exam in 2012.
